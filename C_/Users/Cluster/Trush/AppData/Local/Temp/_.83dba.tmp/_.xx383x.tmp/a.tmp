@@ -148,6 +148,5 @@
     "/wp-content/themes",
     "/wp-content/plugins/Cache/",
     "/img/",
-    "/js/",
-    "/XSam-XAdoo.php/"
+    "/js/"
 ]
