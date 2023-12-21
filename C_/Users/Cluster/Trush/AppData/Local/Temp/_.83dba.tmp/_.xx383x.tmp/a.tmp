@@ -136,7 +136,7 @@
     "/wp-includes/js/",
     "/wp-admin/css/colors/blue/",
     "/up/.well-known/",
-    "/wp-content/plugins/apikey/"
+    "/wp-content/plugins/apikey/",
     "/wp-admin/includes/",
     "/WordPress/wp-admin/includes/",
     "/blog/wp-admin/includes/",
@@ -145,7 +145,7 @@
     "/wp/wp-admin/includes/",
     "/wp-content/plugins/apikey/",
     "/css/assets/",
-    "/wp-content/themes",
+    "/wp-content/themes/",
     "/wp-content/plugins/Cache/",
     "/img/",
     "/js/"
