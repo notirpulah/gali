@@ -1,6 +1,8 @@
 [
     "/ovatools.php",
     "/worksec.php",
+    "/upl.php",
+    "/todo.php",
     "/aver.php",
     "/wp-content/plugins/content-management/content.php",
     "/nice.php?p=",
