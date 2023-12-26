@@ -42,6 +42,7 @@
   "/upload/image/",
   "/uploads/",
   "/wordpress/wp-content/uploads/",
+  "/public/wp-includes/css/dist/editor/",
   "/wordpress/wp-includes/",
   "/blog/wp-includes/",
   "/sites/default/files/",
