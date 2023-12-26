@@ -1,6 +1,8 @@
 [
-  "Webshell",
   "FilesMan",
+  "FilesTools",
+  "Webshell",
+  "http://3.bp.blogspot.com",
   "<input type=\"submit\" value=\"ddok\"/>",
   "Select image to upload:",
   "value=\"goodit\"/>",
