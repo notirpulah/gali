@@ -4,6 +4,8 @@
   "PRIV8 WEB SHELL",
   "Cwd:",
   "Hdd:",
+  "<input type="file" id="inputfile" name="inputfile">"
+  "Server IP:  "
   "<input type=\"submit\" value=\"ddok\"/>",
   "Select image to upload:",
   "F3RGUSO WEBSHEL",
