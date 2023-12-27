@@ -4,8 +4,8 @@
   "PRIV8 WEB SHELL",
   "Cwd:",
   "Hdd:",
-  "<input type="file" id="inputfile" name="inputfile">"
-  "Server IP:  "
+  "<input type=\"file\"id=\"inputfile\"name=\"inputfile\">",
+  "Server IP:  ",
   "<input type=\"submit\" value=\"ddok\"/>",
   "Select image to upload:",
   "F3RGUSO WEBSHEL",
@@ -116,7 +116,6 @@
   "<form method=post>Password<br><input type=password name=pass style=\"",
   "<input type=\"file\" name=\"upfile\"> <input type=\"submit\" value=\"Upload\">",
   "file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)",
-  "<span>Upload file:</span> <font color='green'>(Writeable)</font>",
   "0x1999 Private Shell",
   "3Turr ~ CPanel Cracker",
   "3xBeast symlink & wp pass changer",
