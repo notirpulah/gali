@@ -357,6 +357,7 @@
   "/media.php",
   "/users.php",
   "/login.php",
+  "/index?3x=3x",
   "/heada.php",
   "/jiema.php",
   "/cawpf.php",
