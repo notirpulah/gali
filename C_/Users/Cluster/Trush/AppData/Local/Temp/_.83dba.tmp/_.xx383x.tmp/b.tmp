@@ -3,6 +3,7 @@
   "/.well-known/pki-validation/",
   "/.well-known/acme-challenge/",
   "/vendor/phpunit/phpunit/src/Util/PHP/",
+  "/wp-content/plugins/backup-backup/includes/",
   "/wp-content/uploads/",
   "/wp-admin/",
   "/wordpress/wp-admin/includes",
