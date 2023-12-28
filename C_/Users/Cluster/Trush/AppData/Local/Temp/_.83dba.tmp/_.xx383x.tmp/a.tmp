@@ -162,6 +162,7 @@
   "/wp-includes/js/tinymce/skins/lightgray/img/index.php?p=",
   "/wp-includes/js/tinymce/plugins/compat3x/css/index.php?p=",
   "/wp-includes/js/tinymce/skins/wordpress/images/index.php?p=",
+  "/wp-content/plugins/backup-backup/includes/backup-heart.php",
   "/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php",
   "/wp-content/plugins/revslider/includes/external/page/index.php",
   "/wp-content/plugins/envato-market/inc/class-envato-market-api.php",
