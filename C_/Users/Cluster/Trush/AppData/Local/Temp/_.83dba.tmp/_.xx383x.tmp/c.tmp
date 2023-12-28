@@ -117,7 +117,7 @@
   "<form method=post>Password<br><input type=password name=pass style=\"",
   "<input type=\"file\" name=\"upfile\"> <input type=\"submit\" value=\"Upload\">",
   "file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)",
-  "x7root-Tools</title>",
+  "<title>Uploader x7root-Tools</title>",
   "0x1999 Private Shell",
   "3Turr ~ CPanel Cracker",
   "3xBeast symlink & wp pass changer",
