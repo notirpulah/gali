@@ -172,7 +172,7 @@
   "/.well-known/acme-challenge/shell20211028.php",
   "/wp-content/plugins/classic-editor/wp-login.php",
   "/.well-known/pki-validation/ssl.php?xsec=blocker",
-  "/wp-content/plugins/core-plugin/include.php#admin",
+  "/wp-content/plugins/core-plugin/include.php",
   "/wp-content/plugins/content-management/content.php",
   "/wp-content/plugins/background-image-cropper/ups.php",
   "/wp-includes/js/tinymce/plugins/compat3x/css/index.php",
