@@ -1,5 +1,6 @@
 [
   "/css/sgd.php",
+  "/wp-rocket.php",
   "/wp-includes/wp-class.php",
   "/alfadheat.php",
   "/wp-admin/images/admin.php",
