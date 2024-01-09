@@ -1,5 +1,5 @@
 [
-  "< input type = \"file\" id=\"inputfile\" name=\"inputfile\">",
+  "input type=\"file\" id=\"inputfile\"",
   "<title>Mister Spy</title>",
   "FilesMan",
   "FilesTools",
